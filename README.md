@@ -6,7 +6,7 @@ I build **Machine Learning and GenAI systems** from experimentation to deployabl
 
 Based in **France** · ENSAI Engineer · Open to ML / AI Engineering opportunities and applied research collaborations.
 
-[Portfolio](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/) · [LinkedIn](https://linkedin.com/in/elie-gislain-sanon)
+[Portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/) · [LinkedIn](https://linkedin.com/in/elie-gislain-sanon)
 
 ---
 
@@ -32,21 +32,21 @@ Designed an agentic decision-support system for the Forex market, combining tech
 
 `Python · LangGraph · LLM · FastAPI · Docker · GCP · BigQuery`
 
-→ [Read the portfolio case study](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/experience/djc)
+→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/djc)
 
 ### E-commerce forecasting & anomaly detection · ML Engineering
 Worked on a GCP-based ML pipeline for e-commerce forecasting and anomaly detection, from ingestion and transformation to model orchestration.
 
 `Python · BigQuery · dbt · Airbyte · Prophet · LSTM · Vertex AI · Cloud Composer`
 
-→ [Read the portfolio case study](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/experience/datafab)
+→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/datafab)
 
 ### Handwritten chess-sheet recognition · Computer Vision
 Built a computer-vision pipeline for handwritten chess score sheets, including image processing, segmentation and ResNet fine-tuning on a dataset of 500+ images.
 
 `Python · OpenCV · ResNet · Deep Learning`
 
-→ [Read the portfolio case study](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/experience/ecam)
+→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/ecam)
 
 ---
 
@@ -88,4 +88,4 @@ Study of a **Le Cam one-step estimator** for faster GARCH calibration, with theo
 
 If you're working on ML systems, applied AI or research-oriented engineering:
 
-[LinkedIn](https://linkedin.com/in/elie-gislain-sanon) · [Portfolio](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/) · [Email](mailto:eliegislainsanon@gmail.com)
+[LinkedIn](https://linkedin.com/in/elie-gislain-sanon) · [Portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/) · [Email](mailto:eliegislainsanon@gmail.com)
