@@ -6,7 +6,7 @@ I build **Machine Learning and GenAI systems** from experimentation to deployabl
 
 Based in **France** · ENSAI Engineer · Open to ML / AI Engineering opportunities and applied research collaborations.
 
-[Portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/) · [LinkedIn](https://linkedin.com/in/elie-gislain-sanon)
+[Portfolio](https://eliesanon.vercel.app/) · [LinkedIn](https://linkedin.com/in/elie-gislain-sanon)
 
 ---
 
