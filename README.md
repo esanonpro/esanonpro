@@ -28,21 +28,21 @@ My main interest is not only training models, but designing the **systems around
 ## Selected work
 
 ### Agentic decision system · AI Engineering
-Designed an agentic decision-support system for the Forex market, combining technical analysis, macroeconomic context, LangGraph orchestration, risk management and simulated execution.
+Designed an agentic decision-support system for the Forex market, combining technical analysis, macroeconomic context, LangGraph orchestration, risk management and simulated execution. **10 currency pairs analysed every hour, 100% automated.**
 
 `Python · LangGraph · LLM · FastAPI · Docker · GCP · BigQuery`
 
 → [Read the portfolio case study](https://eliesanon.vercel.app/experience/djc)
 
 ### E-commerce forecasting & anomaly detection · ML Engineering
-Worked on a GCP-based ML pipeline for e-commerce forecasting and anomaly detection, from ingestion and transformation to model orchestration.
+Worked on a GCP-based ML pipeline for e-commerce forecasting and anomaly detection, from ingestion and transformation to model orchestration. **80% of sales anomalies detected** with Prophet and LSTM models.
 
 `Python · BigQuery · dbt · Airbyte · Prophet · LSTM · Vertex AI · Cloud Composer`
 
 → [Read the portfolio case study](https://eliesanon.vercel.app/experience/datafab)
 
 ### Handwritten chess-sheet recognition · Computer Vision
-Built a computer-vision pipeline for handwritten chess score sheets: OpenCV preprocessing and segmentation, a 30,000-image dataset, a CNN trained with TensorFlow/Keras for character recognition, and post-processing of the transcription.
+Built a computer-vision pipeline for handwritten chess score sheets: OpenCV preprocessing and segmentation, a 30,000-image dataset, a CNN trained with TensorFlow/Keras for character recognition, and post-processing of the transcription. **90% detection rate.**
 
 `Python · OpenCV · TensorFlow/Keras · CNN`
 
