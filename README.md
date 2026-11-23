@@ -42,9 +42,9 @@ Worked on a GCP-based ML pipeline for e-commerce forecasting and anomaly detecti
 → [Read the portfolio case study](https://eliesanon.vercel.app/experience/datafab)
 
 ### Handwritten chess-sheet recognition · Computer Vision
-Built a computer-vision pipeline for handwritten chess score sheets, including image processing, segmentation and ResNet fine-tuning on a dataset of 500+ images.
+Built a computer-vision pipeline for handwritten chess score sheets: OpenCV preprocessing and segmentation, a 30,000-image dataset, a CNN trained with TensorFlow/Keras for character recognition, and post-processing of the transcription.
 
-`Python · OpenCV · ResNet · Deep Learning`
+`Python · OpenCV · TensorFlow/Keras · CNN`
 
 → [Read the portfolio case study](https://eliesanon.vercel.app/experience/ecam)
 
