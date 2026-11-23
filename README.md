@@ -32,21 +32,47 @@ Designed an agentic decision-support system for the Forex market, combining tech
 
 `Python · LangGraph · LLM · FastAPI · Docker · GCP · BigQuery`
 
-→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/djc)
+→ [Read the portfolio case study](https://eliesanon.vercel.app/experience/djc)
 
 ### E-commerce forecasting & anomaly detection · ML Engineering
 Worked on a GCP-based ML pipeline for e-commerce forecasting and anomaly detection, from ingestion and transformation to model orchestration.
 
 `Python · BigQuery · dbt · Airbyte · Prophet · LSTM · Vertex AI · Cloud Composer`
 
-→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/datafab)
+→ [Read the portfolio case study](https://eliesanon.vercel.app/experience/datafab)
 
 ### Handwritten chess-sheet recognition · Computer Vision
 Built a computer-vision pipeline for handwritten chess score sheets, including image processing, segmentation and ResNet fine-tuning on a dataset of 500+ images.
 
 `Python · OpenCV · ResNet · Deep Learning`
 
-→ [Read the portfolio case study](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/experience/ecam)
+→ [Read the portfolio case study](https://eliesanon.vercel.app/experience/ecam)
+
+### COVID-19 impact on health-service use · Biostatistics
+At Centre Muraz (Burkina Faso), analysed consultation and hospitalisation data from DHIS2 to measure how COVID-19 affected health-service use: before/after indicators, regional disparity maps, and a KoboToolbox survey questionnaire, defined and presented with physicians.
+
+`R · DHIS2 · KoboToolbox · Mapping`
+
+→ [Read the portfolio case study](https://eliesanon.vercel.app/experience/muraz)
+
+---
+
+## Projects
+
+### [AI Job Hunter](https://github.com/esanonpro/ai-job-hunter-agent)
+A scheduled n8n workflow that collects jobs from several ATS sources, pre-filters and deduplicates them, scores each posting with Gemini and emails the relevant ones. Deterministic logic is covered by tests in CI.
+
+`n8n · Gemini · JavaScript · GitHub Actions · Railway`
+
+### [RAG Document Assistant](https://github.com/esanonpro/rag-document-assistant)
+Question answering over scientific PDFs with cited passages, running fully locally, plus a reproducible RAGAS evaluation protocol (context recall, faithfulness, answer relevancy).
+
+`Python · LangChain · FAISS · Sentence Transformers · Mistral (Ollama) · FastAPI · RAGAS`
+
+### [Fraud Detection MLOps](https://github.com/esanonpro/fraud-detection-mlops)
+Fraud detection on a highly imbalanced dataset, with MLflow tracking, a recall-based promotion gate, a FastAPI service and a CI pipeline that retrains on a sample and blocks weaker models.
+
+`Python · scikit-learn · MLflow · FastAPI · Docker · GitHub Actions`
 
 ---
 
@@ -88,4 +114,4 @@ Study of a **Le Cam one-step estimator** for faster GARCH calibration, with theo
 
 If you're working on ML systems, applied AI or research-oriented engineering:
 
-[LinkedIn](https://linkedin.com/in/elie-gislain-sanon) · [Portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/) · [Email](mailto:eliegislainsanon@gmail.com)
+[LinkedIn](https://linkedin.com/in/elie-gislain-sanon) · [Portfolio](https://eliesanon.vercel.app/) · [Email](mailto:eliegislainsanon@gmail.com)
